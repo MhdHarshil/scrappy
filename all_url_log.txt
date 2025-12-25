@@ -1,0 +1,8 @@
+url: https://www.mayoclinic.org/diseases-conditions - depth level: 0
+url: #main-content - depth level: 1
+url: https://www.mayoclinic.org/ - depth level: 1
+url: https://www.mayoclinic.org/patient-centered-care - depth level: 1
+url: https://www.mayoclinic.org/about-mayo-clinic - depth level: 1
+url: https://www.mayoclinic.org/appointments - depth level: 1
+url: https://www.mayoclinic.org/appointments/find-a-doctor - depth level: 1
+url: https://www.mayoclinic.org/locations - depth level: 1
